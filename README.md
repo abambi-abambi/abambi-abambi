@@ -7,9 +7,9 @@
 * @Inna_abambi
 
 ### 🛠 НАВЫКИ
-* С/С++   * Git   * английский 
-* Java    * Bash  (upper          
-* OOП     * Make  intermedite)
+* С/С++   * Git   * английский (upper intermedite)
+* Java    * Bash            
+* OOП     * Make  
 * ASM     * Docker * Postman 
 	        * Networking
 * операционная система Linux
