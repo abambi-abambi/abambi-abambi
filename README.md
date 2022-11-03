@@ -8,11 +8,11 @@
 
 ### 🛠 НАВЫКИ
 
-* С/С++	| ООП | Make
-* Java	| Maven | UML basics
+* С/С++	| ООП | build tool: Makefile
+* Java | Spring boot basics | UML basics | build tool: Maven
 * ASM
 * Git	 | Bash
-* Docker | Networking | Postman
+* Docker | Networking | Postman / Insomnia
 
 * английский (upper intermedite)
 * операционная система Linux
