@@ -9,7 +9,8 @@
 ### 🛠 НАВЫКИ
 
 * С/С++	| ООП | build tool: Makefile
-* Java | Spring boot basics | UML basics | build tool: Maven
+* Java | Spring boot, Hibernate basics | UML basics | build tool: Maven
+Спецификация: OpenApi
 * ASM
 * Git	 | Bash
 * Docker | Networking | Postman / Insomnia
