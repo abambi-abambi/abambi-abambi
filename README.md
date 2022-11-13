@@ -41,8 +41,8 @@
 
 <div align='center'>
 <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=abambi-abambi&layout=compact"/>
-   <a href="https://github.com/abambi-abambi/github-readme-stats">
-       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=abambi-abambi&layout=compact"/></a>
+<!--  <a href="https://github.com/abambi-abambi/github-readme-stats">
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=abambi-abambi&layout=compact"/></a> -->
 </div>
 
 <!--
