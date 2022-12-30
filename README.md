@@ -11,12 +11,14 @@
 * С/С++	| ООП | build tool: Makefile
 * Java | Spring boot, Lombok, Hibernate basics | UML basics | build tool: Maven
 Спецификация: OpenApi (Swagger editor)
+* Intellij IDEA, VS Code
+
 * ASM
 * Git	 | Bash
 * Docker | Networking | Postman
 
 * английский (upper intermedite)
-* операционная система Linux
+* операционная система Linux, Windows
 * опыт разработки в среде UNIX
 * code review | работа в команде
 
