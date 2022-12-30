@@ -9,11 +9,11 @@
 ### 🛠 НАВЫКИ
 
 * С/С++	| ООП | build tool: Makefile
-* Java | Spring boot, Hibernate basics | UML basics | build tool: Maven
-Спецификация: OpenApi
+* Java | Spring boot, Lombok, Hibernate basics | UML basics | build tool: Maven
+Спецификация: OpenApi (Swagger editor)
 * ASM
 * Git	 | Bash
-* Docker | Networking | Postman / Insomnia
+* Docker | Networking | Postman
 
 * английский (upper intermedite)
 * операционная система Linux
