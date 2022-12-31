@@ -9,7 +9,7 @@
 ### 🛠 НАВЫКИ
 
 * С/С++	| ООП | build tool: Makefile
-* Java | Spring boot, Lombok, Hibernate basics | UML basics | build tool: Maven
+* Java | Spring boot, Lombok, MapStruct, LiqueBase, Hibernate basics | UML basics | build tool: Maven
 Спецификация: OpenApi (Swagger editor)
 * Intellij IDEA, VS Code
 
