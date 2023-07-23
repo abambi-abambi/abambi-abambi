@@ -1,8 +1,10 @@
-### 👋 Pet projects
+### 👋 Hi, I am Inna
+
+### ⚡ My Pet projects
 * C (2 years);
 * C++ (0,6 year);
 
-### Commercial work experience
+### 📈 Commercial work experience
 * ~ 1 year (Java)
 
 ### 📫 Contacts
