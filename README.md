@@ -22,6 +22,7 @@ OOP
 * ASM-basics (Ubuntu 64-bit)
 * Git | Bash | Bitbucket
 * Docker | Networking | Postman
+* Atlassian: Jira & Confluence
 
 * English (upper intermedite), German (~ A2) 
 * OS: Linux, Windows
