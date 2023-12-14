@@ -15,6 +15,7 @@
 OOP
 * С/С++ | build tool: Makefile
 * Java | build tool: Maven | Spring boot, Lombok, MapStruct, Open Feign (microservices)
+* Test coverage: unit/groovy (spock)
 * DB: SQL-queries / PostgreSQL / LiquiBase / Hibernate /  UML basics
 * Specification: OpenApi (Swagger editor) 
 * IDE: Intellij IDEA, VS Code
