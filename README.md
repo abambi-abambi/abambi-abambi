@@ -4,34 +4,36 @@
 * telegram: @Inna_abambi
 
 ### 📈 Commercial work experience
-* 1 year (Java)
+* 1.5 year (Java)
 
 ### ⚡ My Pet projects
 * C (2 years);
 * C++ (0,6 year);
+* solidity
 
 ### 🛠 Skills
 
-OOP
+* solidity: smart contracts | Metamask | ERC-20 token creation
 * С/С++ | build tool: Makefile
-* Java | build tool: Maven | Spring boot, Lombok, MapStruct, Open Feign (microservices)
-* Test coverage: unit/groovy (spock)
-* DB: SQL-queries / PostgreSQL / LiquiBase / Hibernate /  UML basics
-* Specification: OpenApi (Swagger editor) 
-* IDE: Intellij IDEA, VS Code
+* Java | build tool: Maven | OOP | Spring boot, Lombok, MapStruct, Open Feign (microservices) | tests: unit/groovy (spock) | Specification: OpenApi (Swagger editor)
+  
+* DB: SQL-queries | PostgreSQL | LiquiBase | Hibernate | Postman | Insomnia
 
-* ASM-basics (Ubuntu 64-bit)
-* Git | Bash | Bitbucket
-* Docker | Networking | Postman
-* Atlassian: Jira & Confluence
+* Git | Bitbucket
+* OS: Linux, Windows
+* work in UNIX | Bash 
 
 * English (upper intermedite), German (~ A2) 
-* OS: Linux, Windows
-* work in UNIX
+
+* ASM-basics (Ubuntu 64-bit)
+* Basics: Docker | Networking 
+* Atlassian: Jira & Confluence
+
 * code review | work in team
 
 ### 🌱 Education
 * Ecole 42, 10.2020 – till now.
+* #ChainlinkBootcamp2024
 * Higher education from another field
 
 ### :trophy: Achievements
