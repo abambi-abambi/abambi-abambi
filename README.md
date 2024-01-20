@@ -15,13 +15,13 @@
 
 * solidity: smart contracts | Metamask | ERC-20 token creation
 * С/С++ | build tool: Makefile
-* Java | build tool: Maven | OOP | Spring boot, Lombok, MapStruct, Open Feign (microservices) | tests: unit/groovy (spock) | Specification: OpenApi (Swagger editor)
+* Java | build tool: Maven | OOP | Spring boot, Lombok, MapStruct, Open Feign (microservices) | tests: unit/groovy (spock) SoapUI | Specification: OpenApi (Swagger editor)
   
-* DB: SQL-queries | PostgreSQL | LiquiBase | Hibernate | Postman | Insomnia
+* DB: SQL-queries (DDL MML) | PostgreSQL | LiquiBase | Hibernate | Postman | Insomnia | 
 
-* Git | Bitbucket
+* Git | Github | Bitbucket
 * OS: Linux, Windows
-* work in UNIX | Bash 
+* work in UNIX | Bash
 
 * English (upper intermedite), German (~ A2) 
 
