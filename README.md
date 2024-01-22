@@ -17,9 +17,15 @@
 * С/С++ | build tool: Makefile
 * Java | build tool: Maven | OOP | Spring boot, Lombok, MapStruct, Open Feign (microservices) | tests: unit/groovy (spock) SoapUI | Specification: OpenApi (Swagger editor)
   
-* DB: SQL-queries (DDL MML) | PostgreSQL | LiquiBase | Hibernate | Postman | Insomnia 
+* DB: SQL-queries (DDL DML) | PostgreSQL | LiquiBase | Hibernate | Postman | Insomnia
 
-* Git | Github | Bitbucket
+* work with command line:
+  - bash commands
+  - git commands
+  - maven commands
+  - sql queries
+
+* Git (+ IDEA plugin) | Github | Bitbucket
 * OS: Linux, Windows
 * work in UNIX | Bash
 
