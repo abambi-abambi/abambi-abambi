@@ -4,7 +4,7 @@
 * telegram: @Inna_abambi
 
 ### 📈 Commercial work experience
-* 1.5 year (Java)
+* 2.5 year (Java)
 
 ### ⚡ My Pet projects
 * C (2 years);
